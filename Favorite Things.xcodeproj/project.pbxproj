@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4217C3321B53992200C05E65 /* QCReadMe.c in Sources */ = {isa = PBXBuildFile; fileRef = 4217C3311B53992200C05E65 /* QCReadMe.c */; };
 		77438D001B52CBFD00192AFF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77438CFF1B52CBFD00192AFF /* main.m */; };
 		77438D0B1B52CBFD00192AFF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77438D0A1B52CBFD00192AFF /* Images.xcassets */; };
 		77438D1A1B52CBFD00192AFF /* Favorite_ThingsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 77438D191B52CBFD00192AFF /* Favorite_ThingsTests.m */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4217C3311B53992200C05E65 /* QCReadMe.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = QCReadMe.c; sourceTree = "<group>"; };
 		77438CFA1B52CBFD00192AFF /* Favorite Things.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Favorite Things.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77438CFE1B52CBFD00192AFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77438CFF1B52CBFD00192AFF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 		77438CF11B52CBFD00192AFF = {
 			isa = PBXGroup;
 			children = (
+				4217C3311B53992200C05E65 /* QCReadMe.c */,
 				77438CFC1B52CBFD00192AFF /* Favorite Things */,
 				77438D161B52CBFD00192AFF /* Favorite ThingsTests */,
 				77438CFB1B52CBFD00192AFF /* Products */,
@@ -487,6 +490,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77438D401B52CEC000192AFF /* AppDelegate.m in Sources */,
+				4217C3321B53992200C05E65 /* QCReadMe.c in Sources */,
 				7795CC3B1B534123001CB10E /* QCUploadViewController.m in Sources */,
 				7795CC381B534104001CB10E /* QCCategoryViewController.m in Sources */,
 				77C2C67C1B5369CC001BC2F3 /* QCProductCell.m in Sources */,
